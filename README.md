@@ -1,6 +1,6 @@
-# Project Name
+# Odin Admin Dashboard
 
-> One paragraph statement about the project.
+> A project about basic semantic html and css elements.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML elements,
+- `div`, `section`, `button`, `img`, `input`
+- CSS,
+  - `margin`, `border-radius`, `padding`, `background-color`
+  - `display`, `font-size`, `border-color`,
+- Linters
+  - [Prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Vercel Deploy Link](https://vercel.com/gbemisola19s-projects/odin-admin-dashboard)
 
 ### Development (Running locally)
 
@@ -77,9 +82,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
@@ -93,9 +97,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- project link
+  - https://www.bing.com/ck/a?!&&p=990ea29425aac1580708b653ee7bf83a1b1fa8da09f81cf6ab647b5d4eeb2a40JmltdHM9MTczMTI4MzIwMA&ptn=3&ver=2&hsh=4&fclid=361c6d76-7dad-6832-0c9a-79577cbf6930&psq=odin+admin+dashboard&u=a1aHR0cHM6Ly93d3cudGhlb2RpbnByb2plY3QuY29tL2xlc3NvbnMvbm9kZS1wYXRoLWludGVybWVkaWF0ZS1odG1sLWFuZC1jc3MtYWRtaW4tZGFzaGJvYXJk&ntb=1
+- Icon link
+  - https://pictogrammers.com/library/mdi/
 
 ## 📝 License
 
