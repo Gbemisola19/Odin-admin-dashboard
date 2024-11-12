@@ -20,3 +20,58 @@ h1 {
 .container {
   display: flex;
 }
+
+.content {
+  background-color: rgb(226 232 240);
+  width: 100%;
+  height: 700px;
+  padding-bottom: 100px;
+}
+
+.top-navbar {
+  display: flex;
+  padding-top: 20px;
+}
+
+input {
+  width: 550px;
+  border-radius: 10px;
+  background-color: rgb(226 232 240);
+  border: 2px solid rgb(226 232 240);
+  margin-left: 20px;
+}
+
+.navbar {
+  background-color: #fff;
+  height: 130px;
+}
+
+.account {
+  margin-left: 50px;
+}
+
+.user-name {
+  margin-left: 20px;
+}
+
+.bottom-navbar {
+  display: flex;
+}
+
+.g-avatar {
+  display: flex;
+}
+
+.buttons {
+  margin-top: 40px;
+  margin-left: 250px;
+  border-radius: 10px;
+}
+
+.btn {
+  margin-left: 20px;
+  width: 90px;
+  background-color: rgb(25 146 212);
+  border: 2px solid rgb(25 146 212);
+  border-radius: 10px;
+}
