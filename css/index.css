@@ -75,3 +75,35 @@ input {
   border: 2px solid rgb(25 146 212);
   border-radius: 10px;
 }
+
+.profile {
+  height: 70px;
+  margin-top: 10px;
+  display: flex;
+}
+
+.card {
+  margin-left: 15px;
+  background-color: #fff;
+  width: 350px;
+  height: 180px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  border-left: 7px solid #f59e0b;
+  margin-right: 5px;
+}
+
+.section1,
+.section2,
+.section3 {
+  display: flex;
+}
+
+.icon {
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+.sub-section {
+  display: flex;
+}
