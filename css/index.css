@@ -1,0 +1,22 @@
+.side-navbar {
+  background-color: rgb(25 146 212);
+  width: 200px;
+}
+
+.menuitem {
+  display: flex;
+}
+
+img {
+  width: 20px;
+  padding-left: 15px;
+}
+
+h1 {
+  font-size: 20px;
+  padding-left: 25px;
+}
+
+.container {
+  display: flex;
+}
