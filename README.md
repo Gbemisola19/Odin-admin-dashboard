@@ -1,6 +1,6 @@
 # Odin Admin Dashboard
 
-> A project about basic semantic html and css element.
+> A project about basic semantic html and css elements.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,8 +8,8 @@ Additional description of the project and its features.
 
 ## Built With
 
--  HTML elements,
-  - `div`, `section`, `button`, `img`, `input`
+- HTML elements,
+- `div`, `section`, `button`, `img`, `input`
 - CSS,
   - `margin`, `border-radius`, `padding`, `background-color`
   - `display`, `font-size`, `border-color`,
@@ -85,7 +85,6 @@ yarn axe
 - Github: [Gbemisola19](https://github.com/Gbemisola19)
 - Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
@@ -97,11 +96,11 @@ Feel free to check the [issues page](../../issues).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
 - project link
   - https://www.bing.com/ck/a?!&&p=990ea29425aac1580708b653ee7bf83a1b1fa8da09f81cf6ab647b5d4eeb2a40JmltdHM9MTczMTI4MzIwMA&ptn=3&ver=2&hsh=4&fclid=361c6d76-7dad-6832-0c9a-79577cbf6930&psq=odin+admin+dashboard&u=a1aHR0cHM6Ly93d3cudGhlb2RpbnByb2plY3QuY29tL2xlc3NvbnMvbm9kZS1wYXRoLWludGVybWVkaWF0ZS1odG1sLWFuZC1jc3MtYWRtaW4tZGFzaGJvYXJk&ntb=1
 - Icon link
   - https://pictogrammers.com/library/mdi/
-
 
 ## 📝 License
 
