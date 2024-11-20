@@ -9,7 +9,7 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML elements,
-- `div`, `section`, `button`, `img`, `input`
+  - `div`, `section`, `button`, `img`, `input`
 - CSS,
   - `margin`, `border-radius`, `padding`, `background-color`
   - `display`, `font-size`, `border-color`,
