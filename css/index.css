@@ -12,11 +12,6 @@ img {
   padding-left: 15px;
 }
 
-h1 {
-  font-size: 20px;
-  padding-left: 25px;
-}
-
 .container {
   display: flex;
 }
@@ -165,4 +160,9 @@ h3 {
 .icons {
   margin-top: 70px;
   margin-left: 200px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-left: 18px;
 }
