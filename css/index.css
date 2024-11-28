@@ -1,6 +1,6 @@
 .side-navbar {
   background-color: rgb(25 146 212);
-  width: 200px;
+  width: 100%;
 }
 
 .menuitem {
@@ -8,7 +8,7 @@
 }
 
 img {
-  width: 30px;
+  width: 18%;
   padding-left: 15px;
   height: 30px;
   padding-top: 10px;
@@ -50,7 +50,7 @@ input {
 
 .user-name {
   margin-left: 20px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 .bottom-navbar {
@@ -63,18 +63,20 @@ input {
 
 .userimage {
   margin-top: 10px;
-  height: 60px;
+  height: 25%;
+  width: 50%;
 }
 
 .buttons {
   margin-top: 40px;
-  margin-left: 250px;
+  margin-left: 60px;
   border-radius: 10px;
+  margin-right: 180px;
   display: flex;
 }
 
 .btn {
-  margin-left: 20px;
+  margin-left: 30px;
   width: 100px;
   background-color: rgb(25 146 212);
   border: 2px solid rgb(25 146 212);
@@ -140,8 +142,8 @@ input {
 }
 
 .username {
-  margin-left: 15px;
-  margin-bottom: 40px;
+  margin-bottom: 120px;
+  margin-right: 100px;
 }
 
 .h2header {
@@ -201,4 +203,8 @@ h1 {
 .search {
   margin-top: 10px;
   display: flex;
+}
+
+.app-image {
+  width: 30px;
 }
